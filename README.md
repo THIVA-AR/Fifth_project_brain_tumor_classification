@@ -1,5 +1,4 @@
 # Fifth_project_brain_tumor_classification
-# Labeled MRI Brain Tumor Dataset > Version 1
 
 
 This project has created a labeled MRI brain tumor dataset for the detection of three tumor types: pituitary, meningioma, and glioma. The dataset contains 2443 total images, which have been split into training, validation, and test sets. The training set has 1695 images, the validation set has 502 images, and the test set has 246 images.
